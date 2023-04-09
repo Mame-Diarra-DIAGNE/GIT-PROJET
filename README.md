@@ -13,3 +13,8 @@ lors de la livraison du site.
 
 Step_4: on fait une branche à partir de master et on la nomme 
 release-version1.1
+
+Step_5 : on tire une branche qu'on appelle hotfix_italien_russe. On ajoute la page russe et on enlève la page italienne
+sur cette branche. On a merge cette branche dans version1.0. Avec le visuel, ça matérialise le fait qu'on ait 
+fait toutes ces modifications.
+
