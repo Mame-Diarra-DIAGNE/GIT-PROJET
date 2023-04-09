@@ -9,4 +9,7 @@ branches suivantes : anglais, italien et espagnol. On ajoute les liens
 sur notre landing page et on les merge sur version 1.0
 En utilisant cette tecnique cela permet d'avoir une première
 version de notre travail et cela sera plus facile
-lors de la liv
+lors de la livraison du site.
+
+Step_4: on fait une branche à partir de master et on la nomme 
+release-version1.1
